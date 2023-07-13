@@ -9,6 +9,8 @@
  * заполнить тело цикла. Вызовите эти методы у соответствующих объектов.
  */
 
+
+
 package yandex.sprint7.task3;
 
 import java.util.concurrent.ThreadLocalRandom;
