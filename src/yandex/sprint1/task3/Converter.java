@@ -1,4 +1,4 @@
-package yandex.sprint1.task1_3;
+package yandex.sprint1.task3;
 
 public class Converter {
 

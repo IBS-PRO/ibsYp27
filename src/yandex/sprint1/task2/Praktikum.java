@@ -12,7 +12,7 @@
  * параметр — массив расходов.
  */
 
-package yandex.sprint1.task1_2;
+package yandex.sprint1.task2;
 
 import java.util.Scanner;
 

@@ -12,7 +12,7 @@
  * не должен возвращать никаких значений.
  */
 
-package yandex.sprint1.task1_1;
+package yandex.sprint1.task1;
 
 import java.util.Scanner;
 
